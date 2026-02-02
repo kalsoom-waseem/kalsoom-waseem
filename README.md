@@ -6,51 +6,52 @@
 
 ---
 
-## Professional Summary
+
 
 Software Engineer and Product Developer with hands-on experience building **production-grade digital health and AI-powered applications**. Strong background in **Python-based backend development, data processing, and deployment workflows**, with proven ability to translate **clinical and business requirements into scalable software features**. Experienced in healthcare platforms, consumer applications, and startup environments, with a focus on impact, reliability, and clean engineering practices.
 
 ---
 
-## Work Experience
-
-### Product Developer – Digital Health (Python)  
-**Aura Fem Health** | Remote  
-*Aug 2024 – Sep 2025*
-
-- **Reduced manual health-coach intervention by ~40%** by building Python backend services that transformed patient questionnaires and free-text inputs into structured, clinician-ready data.
-- Developed **user-facing features** including onboarding flows, multi-step health assessments, progress tracking, and personalized care plans.
-- Built **clinician-facing features** such as patient dashboards, assessment review workflows, structured reports, and configurable care plans.
-- Implemented **authentication and role-based access control** (patients, clinicians, admins) to ensure privacy-aware handling of sensitive health data.
-- Created **Python data-seeding and configuration scripts** to populate environments with clinical questionnaires, plans, and reference catalogs.
-- Automated ingestion, validation, and reporting via **scheduled Python jobs**, ensuring consistent and traceable execution.
-- Containerized backend services using **Docker** and maintained codebases with **Git/GitHub**.
-- **Mentored and trained two junior developers**, supporting Python development, feature delivery, and healthcare data handling best practices.
-
----
-
-### Software Engineer – Backend Systems  
-**Upwork (Top Rated Freelancer)** | Remote
-
-- **Top Rated Freelancer (top 10%) with 100% job success**, delivering production-grade backend systems for consumer applications.
-- Developed core product features for an **AI-powered fashion assistant**, including user profile management, photo uploads, style preferences, and occasion-based recommendations.
-- Built backend features such as recommendation logic, product ranking, semantic search, and affiliate-driven shopping flows using **Python services**.
-- Implemented **authentication, user sessions, and secure API access** for consumer-facing applications.
-- Designed **data ingestion and indexing workflows** to process product catalogs, style rules, and user preferences for fast retrieval.
-- Integrated **third-party affiliate marketplaces** and applied caching strategies to reduce repeated data fetches and improve response times.
-- Dockerized backend services and maintained production codebases using **Git/GitHub**.
-
 ---
 
 ## Technical Skills
 
-**Languages:** Python, JavaScript, TypeScript  
-**Backend:** Python services, REST APIs, data processing pipelines  
-**Frontend:** React, Next.js, HTML, CSS  
-**Databases:** PostgreSQL, MySQL  
-**DevOps:** Docker  
-**Version Control:** Git, GitHub  
-**Practices:** Agile / SCRUM, modular backend design, reproducible deployments
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="behance logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" height="30" alt="ie10 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="30" alt="safari logo"  />
+</div>
+
 
 ---
 
