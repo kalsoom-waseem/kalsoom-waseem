@@ -44,19 +44,6 @@ Software Engineer and Product Developer with hands-on experience building **prod
 
 ## Technical Skills
 
-![Next JS](https://mmaazrana.github.io/images/next.webp)
-![React JS](https://mmaazrana.github.io/images/react.webp)
-![Flutter](https://mmaazrana.github.io/images/flutter.webp)
-![Dart](https://mmaazrana.github.io/images/dart.webp)
-![Firebase](https://mmaazrana.github.io/images/firebase.webp)
-![Framer](https://mmaazrana.github.io/images/framer.webp)
-![Node JS](https://mmaazrana.github.io/images/node.webp)
-![Javascript](https://mmaazrana.github.io/images/typescript.webp)
-![Typescript](https://mmaazrana.github.io/images/javascript.webp)
-![Tailwind CSS](https://mmaazrana.github.io/images/tailwind.webp)
-![Python](https://mmaazrana.github.io/images/python.webp)
-
-
 **Languages:** Python, JavaScript, TypeScript  
 **Backend:** Python services, REST APIs, data processing pipelines  
 **Frontend:** React, Next.js, HTML, CSS  
