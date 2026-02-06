@@ -8,7 +8,7 @@
 
 
 
-Software Engineer and Product Developer with hands-on experience building **production-grade digital health and AI-powered applications**. Strong background in **Python-based backend development, data processing, and deployment workflows**, with proven ability to translate **clinical and business requirements into scalable software features**. Experienced in healthcare platforms, consumer applications, and startup environments, with a focus on impact, reliability, and clean engineering practices.
+Software engineer and product developer with experience building full-stack web applications using the MERN stack (React, Next.js, Node.js) and backend systems in Python. I’ve worked on integrating GenAI features such as LLM-based summarization, retrieval-augmented workflows, and conversational assistants into real products. My work focuses on translating domain requirements into scalable features, rapid MVP development, and shipping production-ready systems in collaborative environments.
 
 ---
 
