@@ -51,11 +51,11 @@ Software Engineer and Product Developer with hands-on experience building **prod
 
 ## Education
 
-### Master of Science in Data Science  
+### Master of Science in Data Science(2025-2027) 
 **Friedrich-Alexander-Universität Erlangen–Nürnberg (FAU), Germany**  
 *Focus: Artificial Intelligence, Machine Learning, Medical Data Science*  
 
-### Bachelor of Science in Computer Science  
+### Bachelor of Science in Computer Science(2019-2023)  
 **National University of Sciences and Technology (NUST), Pakistan**
 
 ---
