@@ -19,6 +19,7 @@ Software Engineer and Product Developer with hands-on experience building **prod
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapilogo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -62,7 +63,8 @@ Software Engineer and Product Developer with hands-on experience building **prod
 
 ## Interests
 
-- Digital Health & Medical Informatics  
-- Data-driven Healthcare Systems  
-- User-centered Software Design  
+- Gen AI technologies(LLM, RAG, Agents)
+- Data driven Systems
+- User centered Software Design
+- Digital Health & Medical Informatics
 - Women’s Health Awareness & Community Engagement
